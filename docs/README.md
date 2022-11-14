@@ -8,6 +8,4 @@ description: Memos Awesome
 
 Welcome to Memos Awesome
 
-欢迎来到 Memos Awesome
-
-[快速开始](broken-reference)
+:arrow\_right: [Memos 简介](intro/introduction.md)
