@@ -1,3 +1,3 @@
 # Memos Awesome
 
-Deploy on GitBook <https://www.memos.top/>
+Deploy on GitBook <https://docs.memos.top/>
